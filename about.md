@@ -1,4 +1,4 @@
-[Home](index.md) | [Work](work.md) | [About](about.md) | [Resume](Resume_Jazlyn Collyear.pdf)
+[Home](index.md) | [Work](work.md) | [About](about.md) | [Resume](Resume.pdf)
 
 ---
 # About Me
