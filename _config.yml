@@ -1,0 +1,8 @@
+title: Your Name Portfolio
+description: Senior Cybersecurity Student @ Indiana Tech
+theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+  - work.md
+  - about.md
