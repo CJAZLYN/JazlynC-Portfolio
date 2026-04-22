@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Home](index.md) | [Work](work.md) | [About](about.md) | [Resume](Resume.pdf)
 
 ---
