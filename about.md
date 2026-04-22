@@ -25,7 +25,7 @@ In this role, I manage the organizational backbone of our society, ensuring clea
 * **Collaborative Leadership:** Represent the society at Student Executive Board (SEB) meetings and work alongside the President to align our events with university goals.
 
 ### Professional Outreach
-I also collaborate with regional leaders, such as student leadership at **Purdue University Fort Wayne (PFW)**, to coordinate multi-school technical events like local hackathons. My work involves bridging student talent with professional sponsors, including representatives from firms like **Corsica Technologies**.
+I also collaborate with regional leaders, such as student leadership at Purdue University Fort Wayne (PFW), to coordinate multi-school technical events like local hackathons. My work involves bridging student talent with professional sponsors, including representatives from firms like Corsica Technologies.
 
 ---
 
