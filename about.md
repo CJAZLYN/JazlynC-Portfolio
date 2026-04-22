@@ -1,6 +1,11 @@
+---
+layout: default
+---
+
 [Home](index.md) | [Work](work.md) | [About](about.md) | [Resume](Resume.pdf)
 
----
+
+
 # About Me
 
 I am a Senior Cybersecurity student at Indiana Tech with a passion for building secure digital environments and bridging the gap between complex technology and professional communication. Beyond the classroom, I am deeply involved in the local tech community and campus leadership.
