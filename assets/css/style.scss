@@ -3,30 +3,18 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #0d1117; /* Dark Terminal Gray/Black */
-  color: #39ff14;            /* Neon Terminal Green */
+  background-color: #0d1117; 
+  color: #39ff14;            
   font-family: 'Courier New', Courier, monospace;
+}
+
+/* Add this section to fix the dark labels */
+strong, em, b, i {
+  color: #00ccff !important; /* Makes "Tools Used" and "Domain" a bright Cyber Blue */
 }
 
 header {
   color: #ffffff;
 }
 
-a {
-  color: #00ccff;           /* Cyber Blue for links */
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: #39ff14;
-}
-
-h1, h2, h3, h4 {
-  color: #ffffff;           /* Keep headers white for readability */
-  border-bottom: 1px solid #39ff14;
-}
-
-.wrapper {
-  background-color: #0d1117;
-}
+/* Keep the rest of your existing code below... */
