@@ -10,7 +10,7 @@ I am a Senior Cybersecurity student at Indiana Tech with a passion for building 
 ## Leadership & Involvement
 
 ### Secretary | Indiana Tech Cybersecurity Society
-**Executive Board Member**
+
 
 In this role, I manage the organizational backbone of our society, ensuring clear communication and meticulous documentation for all our members and professional partners.
 
