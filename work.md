@@ -1,6 +1,9 @@
 [Home](index.md) | [Work](work.md) | [About](about.md) | [Resume](Resume.pdf)
 
 ---
+layout: default
+---
+---
 # My Technical Projects
 
 Below are the key projects I have completed during my Cybersecurity degree at Indiana Tech. These projects demonstrate my experience with network auditing, protocol hardening, and regulatory compliance.
