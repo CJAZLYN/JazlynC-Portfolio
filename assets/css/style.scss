@@ -3,8 +3,8 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #161b22; /* Softer Midnight Gray */
-  color: #39ff14;            
+  background-color: #161b22 !important;
+  color: #39ff14 !important;            
   font-family: 'Courier New', Courier, monospace;
 }
 
