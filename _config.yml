@@ -3,3 +3,6 @@ title: Jazlyn Collyear
 description: Senior Cybersecurity Student @ Indiana Tech
 baseurl: "/JazlynC-Portfolio"
 sass: { style: compressed }
+
+sass:
+  style: compressed
