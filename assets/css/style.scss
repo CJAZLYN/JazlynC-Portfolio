@@ -1,11 +1,10 @@
 ---
 ---
 @import "{{ site.theme }}";
-
-body {
+html, body, #wrapper, .wrapper {
   background-color: #161b22 !important;
-  color: #39ff14 !important;            
-  font-family: 'Courier New', Courier, monospace;
+  color: #39ff14 !important;
+  font-family: 'Courier New', Courier, monospace !important;
 }
 
 /* 1. Bright White Global Headers (Fixes the whole portfolio) */
