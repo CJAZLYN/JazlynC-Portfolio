@@ -37,3 +37,8 @@ Below are the key projects I have completed during my Cybersecurity degree at In
 * **Network Security:** Packet Analysis (Wireshark), Protocol Hardening (SSL/TLS), NIST Frameworks.
 * **Development:** HTML5/CSS3 (Bento & Grid Layouts), JavaScript, Git/GitHub.
 * **Compliance:** NIST SP 800-171, Personnel Security Auditing.
+
+---
+[Back to Home](index.md) | [Download Full Case Studies (PDF)](Resume.pdf)
+
+  
