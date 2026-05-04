@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](index.md) | [About](about.md) | [Work](work.md) | [Resume](Resume.pdf)
+[About](about.md) | [Work](work.md) | [Resume](Resume.pdf) | [Contact](mailto:Jazlyn.collyear@gmail.com)
 
 # Professional Profile
 
