@@ -1,8 +1,6 @@
-
 ---
 layout: default
 ---
-
 [Home](index.md) | [About](about.md) | [Work](work.md) | [Resume](Resume.pdf)
 
 # Professional Profile
