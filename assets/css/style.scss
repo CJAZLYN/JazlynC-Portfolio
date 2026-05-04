@@ -1,25 +1,68 @@
 [Home](index.md) | [About](about.md) | [Work](work.md) | [Resume](Resume.pdf)
 
-/* Navigation Dashboard Styling - Sentence Case */
-#main_content p:first-of-type, header ul {
-  font-weight: bold !important;
-  margin-bottom: 30px;
+---
+---
+@import "{{ site.theme }}";
+
+/* 1. MAIN BACKGROUND */
+body, .wrapper, section {
+  background-color: #161b22 !important;
+  color: #39ff14 !important;
+  font-family: 'Courier New', Courier, monospace !important;
 }
 
-#main_content p:first-of-type a, header ul a {
+/* 2. RAIF KAYA HEADER (Name Left, Nav Right) */
+header {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  padding: 20px 0 !important;
+  border-bottom: 2px solid #00ccff !important;
+  float: none !important;
+}
+
+header h1 {
+  font-size: 28px !important;
+  color: #ffffff !important;
+  margin: 0 !important;
+}
+
+/* 3. NAVIGATION BUTTONS (Sentence Case) */
+header ul {
+  display: flex !important;
+  list-style: none !important;
+  margin: 0 !important;
+}
+
+header ul li {
+  margin-left: 15px !important;
+}
+
+header a {
   color: #00ccff !important; /* Cyber Blue */
-  text-decoration: none;
+  text-decoration: none !important;
   border: 1px solid #30363d;
   padding: 6px 14px;
   border-radius: 4px;
   transition: 0.2s ease;
   background-color: #161b22;
-  margin-right: 8px; /* Professional spacing between buttons */
-  display: inline-block; /* Ensures the buttons look consistent */
+  font-family: 'Helvetica', sans-serif !important;
 }
 
-#main_content p:first-of-type a:hover, header ul a:hover {
+header a:hover {
   background-color: #39ff14 !important; /* Terminal Green */
   color: #0d1117 !important; /* Dark text for contrast */
   border-color: #39ff14;
+}
+
+/* 4. CLEANUP (Hides theme defaults) */
+header p.view, header ul.downloads {
+  display: none !important;
+}
+
+section {
+  width: 100% !important;
+  float: none !important;
+  margin-top: 40px !important;
 }
