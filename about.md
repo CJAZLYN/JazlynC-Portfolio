@@ -1,4 +1,4 @@
-[HOME](index.md) | [ABOUT](about.md) | [WORK](work.md) | [RESUME](Resume.pdf)
+[Home](index.md) | [About](about.md) | [Work](work.md) | [Resume](Resume.pdf)
 ---
 layout: default
 ---
