@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+[About](about.md) | [Work](work.md) | [Resume](Resume.pdf) | [Contact](mailto:Jazlyn.collyear@gmail.com)
 # Jazlyn Collyear
 ## Cybersecurity | Indiana Tech '26
 
