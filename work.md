@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](index.md) | [Work](work.md) | [About](about.md) | [Resume](Resume.pdf)
+[home](index.md) | [about](about.md) | [work](work.md) | [resume](Resume.pdf)
 
 
 
