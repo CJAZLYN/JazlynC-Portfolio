@@ -1,24 +1,25 @@
-[HOME](index.md) | [ABOUT](about.md) | [WORK](work.md) | [RESUME](Resume.pdf)
+[Home](index.md) | [About](about.md) | [Work](work.md) | [Resume](Resume.pdf)
 
-/* Navigation Menu Styling */
-header ul, #main_content p:first-of-type {
+/* Navigation Dashboard Styling - Sentence Case */
+#main_content p:first-of-type, header ul {
   font-weight: bold !important;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  word-spacing: 15px; /* Adds space between the links */
+  margin-bottom: 30px;
 }
 
-/* Specific color for Nav Links to keep them separate from body text */
-header a, #main_content p:first-of-type a {
-  color: #00ccff !important;
-  border: 1px solid #00ccff; /* Adds a "button" box look */
-  padding: 5px 10px;
+#main_content p:first-of-type a, header ul a {
+  color: #00ccff !important; /* Cyber Blue */
   text-decoration: none;
-  transition: 0.3s;
+  border: 1px solid #30363d;
+  padding: 6px 14px;
+  border-radius: 4px;
+  transition: 0.2s ease;
+  background-color: #161b22;
+  margin-right: 8px; /* Professional spacing between buttons */
+  display: inline-block; /* Ensures the buttons look consistent */
 }
 
-header a:hover, #main_content p:first-of-type a:hover {
-  background-color: #39ff14 !important;
-  color: #161b22 !important;
+#main_content p:first-of-type a:hover, header ul a:hover {
+  background-color: #39ff14 !important; /* Terminal Green */
+  color: #0d1117 !important; /* Dark text for contrast */
   border-color: #39ff14;
 }
