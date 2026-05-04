@@ -5,7 +5,7 @@ layout: default
 
 # Professional Profile
 
-I am a Cybersecurity Engineer graduating from Indiana Tech in May 2026. My career is built on the intersection of technical security hardening and organizational governance. I specialize in translating complex risk vectors into actionable professional strategies.
+I am a Cybersecurity graduating from Indiana Tech in May 2026. My career is built on the intersection of technical security hardening and organizational governance. I specialize in translating complex risk vectors into actionable professional strategies.
 
 ---
 
