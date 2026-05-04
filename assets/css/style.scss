@@ -28,7 +28,7 @@ header h1 {
   margin: 0 !important;
 }
 
-/* 3. NAVIGATION BUTTONS (Sentence Case) */
+/* 3. NAVIGATION BUTTONS (Hardened Style) */
 header ul {
   display: flex !important;
   list-style: none !important;
@@ -39,21 +39,24 @@ header ul li {
   margin-left: 15px !important;
 }
 
-header a {
-  color: #00ccff !important; /* Cyber Blue */
+/* This targets links both in the Header AND at the top of your Markdown pages */
+#main_content p:first-of-type a, header ul a, header ul li a {
+  color: #00ccff !important; 
   text-decoration: none !important;
-  border: 1px solid #30363d;
-  padding: 6px 14px;
-  border-radius: 4px;
-  transition: 0.2s ease;
-  background-color: #161b22;
+  border: 1px solid #00ccff !important; /* Bright Blue Border */
+  padding: 6px 14px !important;
+  border-radius: 4px !important;
+  transition: 0.2s ease !important;
+  background-color: #161b22 !important;
+  margin-right: 8px !important;
+  display: inline-block !important;
   font-family: 'Helvetica', sans-serif !important;
 }
 
-header a:hover {
-  background-color: #39ff14 !important; /* Terminal Green */
-  color: #0d1117 !important; /* Dark text for contrast */
-  border-color: #39ff14;
+#main_content p:first-of-type a:hover, header ul a:hover, header ul li a:hover {
+  background-color: #39ff14 !important; 
+  color: #0d1117 !important; 
+  border-color: #39ff14 !important; /* Glow Green Border on Hover */
 }
 
 /* 4. CLEANUP (Hides theme defaults) */
