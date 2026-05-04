@@ -9,11 +9,11 @@ layout: default
 
 I am a Senior Cybersecurity student at Indiana Tech (May 2026) specializing in technical audits and secure systems. Below is a collection of my professional projects, ranging from NIST compliance frameworks to secure API development, demonstrating my ability to bridge the gap between complex technology and secure business solutions.
 
-*The Secure Web API: A comprehensive security audit and implementation project.
+* The Secure Web API: A comprehensive security audit and implementation project.
 
-*NIST SP 800-171 Compliance: Professional security policy development and domain analysis.
+* NIST SP 800-171 Compliance: Professional security policy development and domain analysis.
 
-*Gulf Real Estate Analysis: Utilizing Minitab for advanced statistical data testing.
+* Gulf Real Estate Analysis: Utilizing Minitab for advanced statistical data testing.
 
-*The Tech Bridge: Developing accessible digital resources for non-technical professionals.
+* The Tech Bridge: Developing accessible digital resources for non-technical professionals.
 [Download my Resume (PDF)](Resume.pdf)
