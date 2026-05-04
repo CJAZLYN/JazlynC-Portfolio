@@ -4,30 +4,31 @@ layout: default
 
 [Home](index.md) | [Work](work.md) | [About](about.md) | [Resume](Resume.pdf)
 
+# Professional Profile
 
-
-# About Me
-
-I am a Senior Cybersecurity student at Indiana Tech with a passion for building secure digital environments and bridging the gap between complex technology and professional communication. Beyond the classroom, I am deeply involved in the local tech community and campus leadership.
+I am a Cybersecurity Engineer graduating from Indiana Tech in May 2026. My career is built on the intersection of **technical security hardening** and **organizational governance**. I specialize in translating complex risk vectors into actionable professional strategies.
 
 ---
 
-## Leadership & Involvement
+## Leadership & Security Governance
 
 ### Secretary | Indiana Tech Cybersecurity Society
+*Senior Leadership Board*
 
+As a core member of the executive board, I oversee the information architecture and operational security for one of the university’s most active technical organizations.
 
-In this role, I manage the organizational backbone of our society, ensuring clear communication and meticulous documentation for all our members and professional partners.
+* **Information Asset Management:** Administer the organization’s secure cloud repositories (OneDrive/Pathify), ensuring data integrity and authorized access for all executive members.
+* **Operational Coordination:** Synchronize multi-departmental schedules and manage the master operational calendar to align society events with university-wide security initiatives.
+* **Stakeholder Communication:** Serve as the primary liaison for internal and external communications, bridging the gap between student leadership and professional partners.
+* **Governance & Reporting:** Represent the society at Student Executive Board (SEB) summits to report on organizational growth and compliance with university standards.
 
-* **Information Governance:** Maintain the organization’s electronic databases (OneDrive and Pathify) and manage contact information for all active members.
-* **Strategic Coordination:** Schedule locations for meetings and events, while maintaining a master semester calendar accessible to the entire Executive Board and student body.
-* **Professional Communication:** Act as the primary liaison for internal updates, collaborating with the Communications Coordinator to manage Outlook outreach and record-keeping for all board meetings.
-* **Collaborative Leadership:** Represent the society at Student Executive Board (SEB) meetings and work alongside the President to align our events with university goals.
-
-### Professional Outreach
-I also collaborate with regional leaders, such as student leadership at Purdue University Fort Wayne (PFW), to coordinate multi-school technical events like local hackathons. My work involves bridging student talent with professional sponsors, including representatives from firms like Corsica Technologies.
+### Professional Ecosystem Engagement
+I actively coordinate with regional academic and industry leaders (including Purdue Fort Wayne) to facilitate collaborative technical events. By interfacing with professional entities like **Corsica Technologies**, I help bridge the gap between emerging student talent and the regional cybersecurity workforce.
 
 ---
 
 ## My Philosophy: "The Tech Bridge"
-I believe that security is only as strong as its weakest link, which is often human understanding. Through my senior project, *The Tech Bridge*, I am dedicated to creating digital resources that simplify complex cybersecurity concepts for non-technical professionals.
+I believe that a system is only as secure as its most informed user. My senior project, **The Tech Bridge**, is a dedicated platform designed to mitigate "human-factor" vulnerabilities by providing non-technical professionals with high-fidelity, accessible cybersecurity resources.
+
+---
+[Explore My Technical Projects](work.md) | [Connect via Resume](Resume.pdf)
