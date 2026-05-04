@@ -9,15 +9,16 @@ layout: default
 
 > **Mission:** Bridging the gap between complex technical security audits and accessible digital solutions.
 
-### 🛡️ Technical Arsenal
-* **Security:** NIST SP 800-171, Information Governance, Risk Assessment.
-* **Analysis:** Minitab Statistical Testing, Wireshark, Data Auditing.
-* **Web:** CSS Grid, Glassmorphism, Responsive UI Design.
+### 🛡️ Core Competencies & Tooling
+* **Security Frameworks:** NIST SP 800-171, Personnel Security (3.9), Risk Mitigation.
+* **Network Defense:** Traffic Analysis (Wireshark), Protocol Hardening (TLS 1.3), OpenSSL.
+* **Data Integrity:** Statistical Analysis (Minitab), Secure API Implementation, Data Auditing.
+* **Web Architecture:** Responsive UI/UX, CSS Grid, Glassmorphism Design Standards.
 
-### 🛠️ Featured Projects
-* **The Secure Web API:** Comprehensive security audit and system hardening.
-* **NIST Compliance:** Developed professional security policies and frameworks.
-* **The Tech Bridge:** Digital resource hub for non-technical professionals.
-* **Real Estate Analysis:** Advanced statistical testing using Minitab.
+### 🛠️ Featured Security Engagements
+* **[The Secure Web API]**: Vulnerability assessment and mitigation via protocol migration from cleartext to encrypted TLS 1.3.
+* **[NIST 800-171 Compliance]**: Engineered a personnel security framework for defense contractors and professional organizations.
+* **[The Tech Bridge]**: Built a secure digital resource hub designed to simplify complex cybersecurity concepts for professional operations.
+* **[Data Analysis Case Study]**: Executed advanced statistical hypothesis testing for real estate assets using Minitab.
 
 [Download Full Resume (PDF)](Resume.pdf)
