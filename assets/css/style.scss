@@ -1,41 +1,24 @@
 [HOME](index.md) | [ABOUT](about.md) | [WORK](work.md) | [RESUME](Resume.pdf)
----
----
-@import "{{ site.theme }}";
-html, body, #wrapper, .wrapper {
-  background-color: #21262d !important;
-  color: #39ff14 !important;
-  font-family: 'Courier New', Courier, monospace !important;
+
+/* Navigation Menu Styling */
+header ul, #main_content p:first-of-type {
+  font-weight: bold !important;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  word-spacing: 15px; /* Adds space between the links */
 }
 
-/* 1. Bright White Global Headers (Fixes the whole portfolio) */
-h1, h2, h3, h4, .project-name, .project-tagline {
-  color: #ffffff !important;
-  opacity: 1 !important;
-  border-bottom: 1px solid #39ff14; 
-  padding-bottom: 5px;
+/* Specific color for Nav Links to keep them separate from body text */
+header a, #main_content p:first-of-type a {
+  color: #00ccff !important;
+  border: 1px solid #00ccff; /* Adds a "button" box look */
+  padding: 5px 10px;
+  text-decoration: none;
+  transition: 0.3s;
 }
 
-/* 2. Cyber Blue for labels (Tools Used, Domain, etc.) */
-strong, em, b, i {
-  color: #00ccff !important; 
-}
-
-/* 3. Header/Sidebar adjustments */
-header {
-  color: #ffffff;
-}
-
-a {
-  color: #00ccff;
-}
-
-a:hover {
-  color: #39ff14;
-  text-decoration: underline;
-}
-
-/* 4. Ensures bullet points stay Terminal Green */
-li {
-  color: #39ff14;
+header a:hover, #main_content p:first-of-type a:hover {
+  background-color: #39ff14 !important;
+  color: #161b22 !important;
+  border-color: #39ff14;
 }
