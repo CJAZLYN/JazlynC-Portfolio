@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Jazlyn Collyear
-## Cybersecurity Engineer | Indiana Tech '26
+## Cybersecurity | Indiana Tech '26
 
 ![Cyber Tech Animation](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeTlkczEzdnNwejlpdjQ5c2xlYXU0ZzRpejJwN2E3NXp6dnYyMmp3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif)
 
