@@ -6,7 +6,7 @@ layout: default
 
 # Professional Profile
 
-I am a Cybersecurity Engineer graduating from Indiana Tech in May 2026. My career is built on the intersection of **technical security hardening** and **organizational governance**. I specialize in translating complex risk vectors into actionable professional strategies.
+I am a Cybersecurity Engineer graduating from Indiana Tech in May 2026. My career is built on the intersection of technical security hardening and organizational governance. I specialize in translating complex risk vectors into actionable professional strategies.
 
 ---
 
@@ -28,7 +28,7 @@ I actively coordinate with regional academic and industry leaders (including Pur
 ---
 
 ## My Philosophy: "The Tech Bridge"
-I believe that a system is only as secure as its most informed user. My senior project, **The Tech Bridge**, is a dedicated platform designed to mitigate "human-factor" vulnerabilities by providing non-technical professionals with high-fidelity, accessible cybersecurity resources.
+I believe that a system is only as secure as its most informed user. My senior project, The Tech Bridge, is a dedicated platform designed to mitigate "human-factor" vulnerabilities by providing non-technical professionals with high-fidelity, accessible cybersecurity resources.
 
 ---
 [Explore My Technical Projects](work.md) | [Connect via Resume](Resume.pdf)
