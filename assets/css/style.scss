@@ -2,70 +2,64 @@
 
 ---
 ---
+---
+---
 @import "{{ site.theme }}";
 
-/* 1. MAIN BACKGROUND */
-body, .wrapper, section {
-  background-color: #161b22 !important;
-  color: #39ff14 !important;
+/* FORCE DARK CYBERSECURITY BACKGROUND */
+html, body, .wrapper, section, container, div.wrapper {
+  background-color: #0d1117 !important; /* Dark Cyber Charcoal */
+  color: #39ff14 !important;            /* Terminal Green Text */
   font-family: 'Courier New', Courier, monospace !important;
 }
 
-/* 2. RAIF KAYA HEADER (Name Left, Nav Right) */
-header {
+/* SIDEBAR & HEADER COLOR FIXES */
+header h1, header h1 a {
+  color: #00ccff !important;            /* Cyber Blue for your Name */
+  text-shadow: 0 0 5px rgba(0, 204, 255, 0.5) !important;
+}
+
+header p, header span, .sidebar {
+  color: #ffffff !important;            /* White subtext for readability */
+}
+
+/* HEADERS AND TITLE HIGHLIGHTS */
+h1, h2, h3, h4, h5, h6 {
+  color: #00ccff !important;            /* Cyber Blue for Section Headings */
+  border-bottom: 1px solid #1f242c !important;
+  padding-bottom: 5px !important;
+  font-family: 'Courier New', Courier, monospace !important;
+}
+
+/* TERMINAL NAVIGATION DASHBOARD */
+#main_content p:first-of-type, .nav-bar {
+  background-color: #161b22 !important; /* Slightly lighter dark gray for the nav bar */
+  padding: 12px 10px !important;
+  text-align: center !important;
+  border: 1px solid #00ccff !important; /* Blue border framing the nav */
+  border-radius: 6px !important;
   width: 100% !important;
-  display: flex !important;
-  justify-content: space-between !important;
-  align-items: center !important;
-  padding: 20px 0 !important;
-  border-bottom: 2px solid #00ccff !important;
-  float: none !important;
+  display: block !important;
 }
 
-header h1 {
-  font-size: 28px !important;
-  color: #ffffff !important;
-  margin: 0 !important;
-}
-
-/* 3. NAVIGATION BUTTONS (Hardened Style) */
-header ul {
-  display: flex !important;
-  list-style: none !important;
-  margin: 0 !important;
-}
-
-header ul li {
-  margin-left: 15px !important;
-}
-
-/* This targets links both in the Header AND at the top of your Markdown pages */
-#main_content p:first-of-type a, header ul a, header ul li a {
-  color: #00ccff !important; 
+/* NAV LINKS */
+#main_content p:first-of-type a {
+  color: #ffffff !important;            /* White links inside the bar */
   text-decoration: none !important;
-  border: 1px solid #00ccff !important; /* Bright Blue Border */
-  padding: 6px 14px !important;
-  border-radius: 4px !important;
-  transition: 0.2s ease !important;
-  background-color: #161b22 !important;
-  margin-right: 8px !important;
+  margin: 0 10px !important;
+  font-size: 14px !important;
+  font-weight: bold !important;
+  transition: 0.3s ease !important;
   display: inline-block !important;
-  font-family: 'Helvetica', sans-serif !important;
 }
 
-#main_content p:first-of-type a:hover, header ul a:hover, header ul li a:hover {
-  background-color: #39ff14 !important; 
-  color: #0d1117 !important; 
-  border-color: #39ff14 !important; /* Glow Green Border on Hover */
+/* NAV HOVER EFFECT */
+#main_content p:first-of-type a:hover {
+  color: #39ff14 !important;            /* Glows Green on Hover */
+  text-shadow: 0 0 8px #39ff14 !important;
 }
 
-/* 4. CLEANUP (Hides theme defaults) */
-header p.view, header ul.downloads {
-  display: none !important;
-}
-
-section {
-  width: 100% !important;
-  float: none !important;
-  margin-top: 40px !important;
+/* CLEANING UP FOOTER TEXT */
+footer, footer p, footer a {
+  color: #8b949e !important;            /* Dimmed gray text for the footer info */
 }
