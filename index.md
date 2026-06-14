@@ -1,24 +1,66 @@
 ---
 layout: default
 ---
-[About](about.md) | [Work](work.md) | [Resume](Resume.pdf) | [Contact](mailto:Jazlyn.collyear@gmail.com)
-# Jazlyn Collyear
-## Cybersecurity | Indiana Tech '26
+<!-- THE TERMINAL NAVIGATION BAR -->
+[About Me](#about) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education & Certificates](#education) | [Contact & Connect](#contact)
 
-![Cyber Tech Animation](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeTlkczEzdnNwejlpdjQ5c2xlYXU0ZzRpejJwN2E3NXp6dnYyMmp3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif)
+---
 
-> **Mission:** Bridging the gap between complex technical security audits and accessible digital solutions.
+<!-- ABOUT ME SECTION -->
+<section id="about">
+## About Me
+I am a Cybersecurity senior at Indiana Tech graduating in May 2026. My focus is on technical security hardening, risk mitigation, and translating complex technical concepts into actionable strategies.
+</section>
 
-### 🛡️ Core Competencies & Tooling
-* **Security Frameworks:** NIST SP 800-171, Personnel Security (3.9), Risk Mitigation.
-* **Network Defense:** Traffic Analysis (Wireshark), Protocol Hardening (TLS 1.3), OpenSSL.
-* **Data Integrity:** Statistical Analysis (Minitab), Secure API Implementation, Data Auditing.
-* **Web Architecture:** Responsive UI/UX, CSS Grid, Glassmorphism Design Standards.
+---
 
-### 🛠️ Featured Security Engagements
-* **[The Secure Web API]**: Vulnerability assessment and mitigation via protocol migration from cleartext to encrypted TLS 1.3.
-* **[NIST 800-171 Compliance]**: Engineered a personnel security framework for defense contractors and professional organizations.
-* **[The Tech Bridge]**: Built a secure digital resource hub designed to simplify complex cybersecurity concepts for professional operations.
-* **[Data Analysis Case Study]**: Executed advanced statistical hypothesis testing for real estate assets using Minitab.
+<!-- SKILLS SECTION -->
+<section id="skills">
+## Technical Skills
+* **Network Security & Analysis:** Wireshark, OpenSSL, network traffic analysis
+* **Methodologies & Frameworks:** NIST SP 800-171, secure design principles, secure web development
+* **Tools & Software:** Python, SQL, HTML, Minitab statistical analysis
+</section>
 
-[Download Full Resume (PDF)](Resume.pdf)
+---
+
+<!-- PROJECTS SECTION -->
+<section id="projects">
+## Projects
+### The Secure Web API
+* Developed an API platform utilizing OpenSSL and Wireshark designed to securely deliver digital materials.
+* Audited and documented data traffic to ensure integrity and compliance with security baselines.
+</section>
+
+---
+
+<!-- EXPERIENCE SECTION -->
+<section id="experience">
+## Experience
+### Secretary | Indiana Tech Cybersecurity Society
+* Administered the organization’s secure cloud repositories (OneDrive/Pathify), ensuring data integrity.
+* Managed internal and external communications, bridging the gap between student leadership and professional partners.
+
+### Athletic Student Worker | Indiana Tech
+* Assisted with on-campus athletic operations, coordination, and administrative support.
+</section>
+
+---
+
+<!-- EDUCATION & CERTIFICATES SECTION -->
+<section id="education">
+## Education & Certificates
+### Bachelor of Science in Cybersecurity
+**Indiana Institute of Technology (Indiana Tech)** | Graduation: May 2026
+* **Honors & Activities:** Dean's List, Cybersecurity Society Secretary
+</section>
+
+---
+
+<!-- CONTACT & CONNECT SECTION -->
+<section id="contact">
+## Contact & Connect
+* **Email:** [Jazlyn.collyear@gmail.com](mailto:Jazlyn.collyear@gmail.com)
+* **LinkedIn:** [linkedin.com/in/jazlyn-collyear](https://www.linkedin.com/in/jazlyn-collyear)
+* **GitHub:** [github.com/CJAZLYN](https://github.com/CJAZLYN)
+</section>
