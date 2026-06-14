@@ -1,8 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/orderedlist@v0.2.0
 title: Jazlyn Collyear
-description: Senior Cybersecurity Student @ Indiana Tech
+description: Cybersecurity Student @ Indiana Tech
 baseurl: "/JazlynC-Portfolio"
-sass: { style: compressed }
-
-sass:
-  style: compressed
