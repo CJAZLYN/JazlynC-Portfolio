@@ -9,7 +9,7 @@ layout: default
 <!-- ABOUT ME SECTION -->
 <section id="about">
 ## About Me
-I’ve always seen cybersecurity as a massive puzzle—I love the challenge of piecing together clues, finding patterns, and solving complex problems to stay ahead of threats. As a recent Cybersecurity graduate from Indiana Tech, I genuinely enjoy diving into the technical details to uncover and fix hidden vulnerabilities.
+I’ve always seen cybersecurity as a massive puzzle I love the challenge of piecing together clues, finding patterns, and solving complex problems to stay ahead of threats. As a recent Cybersecurity graduate from Indiana Tech, I genuinely enjoy diving into the technical details to uncover and fix hidden vulnerabilities.
 
 My passion for defense really clicked when I worked independently on "The Secure Web API." Using Wireshark to run packet analysis, I watched exactly how easily sensitive data like emails and passwords can be exposed if they aren't properly protected. Seeing that exposure firsthand is what drives my focus on data protection and secure protocols. Now, I’m excited to bring that analytical mindset and hands-on investigative drive to a fast-paced Security Operations Center (SOC) team.
 </section>
