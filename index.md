@@ -2,7 +2,7 @@
 layout: default
 ---
 <!-- THE TERMINAL NAVIGATION BAR -->
-[About Me](#about) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education & Certificates](#education) | [Contact & Connect](#contact)
+[About Me](#about) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education & Certificates](#education) | [Contact & Connect](jazlyn.collyear@gmail.com)
 
 ---
 
