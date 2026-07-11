@@ -93,28 +93,18 @@ layout: default
       <div class="project-card">
       <div class="project-header">
         <h3>Digital Forensics Mobile Investigation</h3>
-        <span class="project-role">Forensic Analyst</span>
-      </div>
-      <p class="project-desc">Authored a formal legal affidavit to secure a search warrant targeting an ongoing smartphone and tablet investigation. Established a rigorous Chain of Custody tracking infrastructure to process two data images seized from a vehicle search, utilizing Magnet AXIOM and FTK Imager to extract and analyze hidden email and social media evidence before delivering a final comprehensive technical report.</p>
+      <p class="project-desc">Authored a formal legal affidavit to secure a search warrant targeting an ongoing smartphone and tablet investigation. Established a rigorous Chain of Custody tracking infrastructure to process two data images seized from a vehicle search, utilizing Magnet AXIOM and FTK Imager to extract and analyze hidden email and social media evidence before delivering a final comprehensive technical report.<span>Magnet AXIOM</span><span>FTK Imager</span><span>Chain of Custody</span><span>Legal Affidavits</span><span>Artifact Recovery</span><span>Technical Reporting</span></p>
       <div class="project-tags">
-        <span>Magnet AXIOM</span><span>FTK Imager</span><span>Chain of Custody</span><span>Legal Affidavits</span><span>Artifact Recovery</span><span>Technical Reporting</span>
+        
       </div>
     </div>
 
     <div class="project-card">
       <div class="project-header">
         <h3>Physical Crime Scene Reconstruction</h3>
-        <span class="project-role">CSI Investigator</span>
-      </div>
-      <p class="project-desc">Analyzed and documented a simulated physical crime scene, utilizing precision geometric measurement techniques to map the exact spatial relationships between key physical objects and evidence. Combined physical scene forensics with digital workflows to preserve critical spatial integrity for subsequent forensic reporting.</p>
+      <p class="project-desc">Analyzed and documented a simulated physical crime scene, utilizing precision geometric measurement techniques to map the exact spatial relationships between key physical objects and evidence. Combined physical scene forensics with digital workflows to preserve critical spatial integrity for subsequent forensic reporting. <span>Crime Scene Mapping</span><span>Evidence Documentation</span><span>Spatial Reconstruction</span><span>Forensic Analysis</span></p>
       <div class="project-tags">
-        <span>Crime Scene Mapping</span><span>Evidence Documentation</span><span>Spatial Reconstruction</span><span>Forensic Analysis</span>
-      </div>
-    </div>
-       
-     
-
-  </div>
+        </div>
 </div>
 
 <!-- EXPERIENCE SECTION -->
