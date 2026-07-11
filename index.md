@@ -49,9 +49,9 @@ layout: default
         <h3>The Secure Web API</h3>
         <span class="project-role">Security Auditor & Engineer</span>
       </div>
-      <p class="project-desc">Conducted a comprehensive security audit on a custom Web API to identify data exposure vulnerabilities and implement robust transport layer defense. Upon discovering that user credentials were transmitting in plaintext, single-handedly engineered a complete cryptographic infrastructure to secure the environment against Man-in-the-Middle (MitM) attacks.</p>
+      <p class="project-desc">Conducted a comprehensive security audit on a custom Web API to identify data exposure vulnerabilities and implement robust transport layer defense. Upon discovering that user credentials were transmitting in plaintext, single-handedly engineered a complete cryptographic infrastructure to secure the environment against Man-in-the-Middle (MitM) attacks. <span>OpenSSL</span><span>Wireshark</span><span>TLS 1.3/HTTPS</span><span>2048-bit RSA</span><span>X.509 Certificates</span> </p>
       <div class="project-tags">
-        <span>OpenSSL</span><span>Wireshark</span><span>TLS 1.3/HTTPS</span><span>2048-bit RSA</span><span>X.509 Certificates</span>
+        
       </div>
     </div>
 
@@ -61,9 +61,9 @@ layout: default
         <h3>Wireshark Network Analysis</h3>
         <span class="project-role">Network Analyst</span>
       </div>
-      <p class="project-desc">Conducted a comprehensive analysis of live network traffic using Wireshark to monitor data flows, execute delay testing, and evaluate protocol performance. This hands-on project focused on identifying traffic patterns and isolating potential security anomalies within a network environment.</p>
+      <p class="project-desc">Conducted a comprehensive analysis of live network traffic using Wireshark to monitor data flows, execute delay testing, and evaluate protocol performance. This hands-on project focused on identifying traffic patterns and isolating potential security anomalies within a network environment. <span>Wireshark</span><span>ICMP</span><span>SSH</span><span>TCP</span><span>FTP</span><span>Network Protocols</span></p>
       <div class="project-tags">
-        <span>Wireshark</span><span>ICMP</span><span>SSH</span><span>TCP</span><span>FTP</span><span>Network Protocols</span>
+       
       </div>
     </div>
 
@@ -73,9 +73,9 @@ layout: default
         <h3>Defensive CyberOps Policy</h3>
         <span class="project-role">Security Risk Specialist</span>
       </div>
-      <p class="project-desc">Developed a comprehensive enterprise security policy framework for a simulated organization following a major data breach. The framework engineered strict administrative and technical controls designed to mitigate lateral threat movement, enforce regulatory compliance, and build a proactive, security-first corporate culture.</p>
+      <p class="project-desc">Developed a comprehensive enterprise security policy framework for a simulated organization following a major data breach. The framework engineered strict administrative and technical controls designed to mitigate lateral threat movement, enforce regulatory compliance, and build a proactive, security-first corporate culture. <span>Zero Trust</span><span>Incident Response</span><span>NIST Framework</span><span>Vulnerability Mgmt</span><span>3-2-1-1 Backup</span></p>
       <div class="project-tags">
-        <span>Zero Trust</span><span>Incident Response</span><span>NIST Framework</span><span>Vulnerability Mgmt</span><span>3-2-1-1 Backup</span>
+       
       </div>
     </div>
 
@@ -97,9 +97,9 @@ layout: default
         <h3>The Tech Bridge</h3>
         <span class="project-role">Secure Web Developer</span>
       </div>
-      <p class="project-desc">Designed and deployed a comprehensive 10-page educational website engineered to bridge the gap between complex technological concepts and non-technical audiences. Built a highly responsive interface focused on user accessibility, clean performance, and community-focused digital resources.</p>
+      <p class="project-desc">Designed and deployed a comprehensive 10-page educational website engineered to bridge the gap between complex technological concepts and non-technical audiences. Built a highly responsive interface focused on user accessibility, clean performance, and community-focused digital resources. <span>HTML/CSS</span><span>User Accessibility</span><span>Responsive Design</span><span>Interface Engineering</span></p>
       <div class="project-tags">
-        <span>HTML/CSS</span><span>User Accessibility</span><span>Responsive Design</span><span>Interface Engineering</span>
+       
       </div>
     </div>
 
