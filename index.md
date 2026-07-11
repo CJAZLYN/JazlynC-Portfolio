@@ -30,7 +30,7 @@ layout: default
   <ul>
     <li>Network Security & Analysis:Wireshark, OpenSSL, network traffic analysis, Packet Capture & Inspection</li>
     <li>Methodologies & Frameworks: NIST SP 800-171, Secure Design Principles, Front-End Web Development</li>
-    <li>>Languages & Databases: Python, SQL, HTML/CSS</li>
+    <li>Languages & Databases: Python, SQL, HTML/CSS</li>
     <li>Data & Statistical Analysis:Python, SQL, HTML, Minitab statistical analysis</li>
   </ul>
 </div>
