@@ -28,10 +28,10 @@ layout: default
 <div id="skills">
   <h2>Technical Skills</h2>
   <ul>
-    <li><strong>Network Security & Analysis:</strong> Wireshark, OpenSSL, network traffic analysis, Packet Capture & Inspection</li>
-    <li><strong>Methodologies & Frameworks:</strong> NIST SP 800-171, Secure Design Principles, Front-End Web Development</li>
-    <li><strong>Languages & Databases:</strong> Python, SQL, HTML/CSS</li>
-    <li><strong>Data & Statistical Analysis:</strong> Python, SQL, HTML, Minitab statistical analysis</li>
+    <li>Network Security & Analysis:Wireshark, OpenSSL, network traffic analysis, Packet Capture & Inspection</li>
+    <li>Methodologies & Frameworks: NIST SP 800-171, Secure Design Principles, Front-End Web Development</li>
+    <li>>Languages & Databases: Python, SQL, HTML/CSS</li>
+    <li>Data & Statistical Analysis:Python, SQL, HTML, Minitab statistical analysis</li>
   </ul>
 </div>
 
@@ -58,6 +58,7 @@ layout: default
     <!-- CARD 2 -->
     <div class="project-card">
       <div class="project-header">
+        
         <h3>Wireshark Network Analysis</h3>
         <span class="project-role">Network Analyst</span>
       </div>
