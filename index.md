@@ -85,9 +85,9 @@ layout: default
         <h3>Automated Management System</h3>
         <span class="project-role">Database Developer</span>
       </div>
-      <p class="project-desc">Developed and deployed a comprehensive relational database management system designed to automate and optimize operations for a mobile business. Built a robust SQL Server backend integrated with a custom Excel VBA user interface, allowing non-technical managers to effortlessly update records, track fleet logistics, and maintain seamless business workflows.</p>
+      <p class="project-desc">Developed and deployed a comprehensive relational database management system designed to automate and optimize operations for a mobile business. Built a robust SQL Server backend integrated with a custom Excel VBA user interface, allowing non-technical managers to effortlessly update records, track fleet logistics, and maintain seamless business workflows.   <span>SQL Server</span><span>Excel VBA</span><span>Relational Databases</span><span>Workflow Optimization</span></p>
       <div class="project-tags">
-        <span>SQL Server</span><span>Excel VBA</span><span>Relational Databases</span><span>Workflow Optimization</span>
+     
       </div>
     </div>
 
@@ -95,8 +95,6 @@ layout: default
     <div class="project-card">
       <div class="project-header">
         <h3>The Tech Bridge</h3>
-        <span class="project-role">Secure Web Developer</span>
-      </div>
       <p class="project-desc">Designed and deployed a comprehensive 10-page educational website engineered to bridge the gap between complex technological concepts and non-technical audiences. Built a highly responsive interface focused on user accessibility, clean performance, and community-focused digital resources. <span>HTML/CSS</span><span>User Accessibility</span><span>Responsive Design</span><span>Interface Engineering</span></p>
       <div class="project-tags">
        
