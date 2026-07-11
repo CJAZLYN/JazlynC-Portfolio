@@ -51,6 +51,7 @@ layout: default
       </div>
       <p class="project-desc">Conducted a comprehensive security audit on a custom Web API to identify data exposure vulnerabilities and implement robust transport layer defense. Upon discovering that user credentials were transmitting in plaintext, single-handedly engineered a complete cryptographic infrastructure to secure the environment against Man-in-the-Middle (MitM) attacks.</p>
       <div class="project-tags">
+        
         <span>OpenSSL</span><span>Wireshark</span><span>TLS 1.3/HTTPS</span><span>2048-bit RSA</span><span>X.509 Certificates</span>
       </div>
     </div>
@@ -58,8 +59,8 @@ layout: default
     <!-- CARD 2 -->
     <div class="project-card">
       <div class="project-header">
-        
-        <h3>Wireshark Network Analysis</h3>
+         
+         <h3>Wireshark Network Analysis</h3>
         <span class="project-role">Network Analyst</span>
       </div>
       <p class="project-desc">Conducted a comprehensive analysis of live network traffic using Wireshark to monitor data flows, execute delay testing, and evaluate protocol performance. This hands-on project focused on identifying traffic patterns and isolating potential security anomalies within a network environment.</p>
