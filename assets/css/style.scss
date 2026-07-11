@@ -6,62 +6,100 @@
 ---
 ---
 ---
+---
+---
 @import "{{ site.theme }}";
 
-/* FORCE DARK CYBERSECURITY BACKGROUND */
-html, body, .wrapper, section, container, div.wrapper {
-  background-color: #0d1117 !important; /* Dark Cyber Charcoal */
-  color: #39ff14 !important;            /* Terminal Green Text */
+html {
+  scroll-behavior: smooth !important;
+}
+
+/* FORCE MAIN BACKGROUND DARK */
+html, body, .wrapper, section {
+  background: #0d1117 !important;
+  background-color: #0d1117 !important;
+  color: #39ff14 !important; /* Terminal Green text */
   font-family: 'Courier New', Courier, monospace !important;
 }
 
-/* SIDEBAR & HEADER COLOR FIXES */
+/* FORCE SIDEBAR BACKGROUND DARK */
+header, .sidebar, aside {
+  background: #161b22 !important;
+  background-color: #161b22 !important;
+}
+
 header h1, header h1 a {
-  color: #00ccff !important;            /* Cyber Blue for your Name */
-  text-shadow: 0 0 5px rgba(0, 204, 255, 0.5) !important;
+  color: #00ccff !important; /* Cyber Blue */
 }
 
-header p, header span, .sidebar {
-  color: #ffffff !important;            /* White subtext for readability */
+header p, header span, footer p {
+  color: #8b949e !important;
 }
 
-/* HEADERS AND TITLE HIGHLIGHTS */
 h1, h2, h3, h4, h5, h6 {
-  color: #00ccff !important;            /* Cyber Blue for Section Headings */
-  border-bottom: 1px solid #1f242c !important;
-  padding-bottom: 5px !important;
+  color: #00ccff !important; /* Cyber Blue Headings */
   font-family: 'Courier New', Courier, monospace !important;
 }
 
-/* TERMINAL NAVIGATION DASHBOARD */
-#main_content p:first-of-type, .nav-bar {
-  background-color: #161b22 !important; /* Slightly lighter dark gray for the nav bar */
-  padding: 12px 10px !important;
-  text-align: center !important;
-  border: 1px solid #00ccff !important; /* Blue border framing the nav */
-  border-radius: 6px !important;
-  width: 100% !important;
-  display: block !important;
-}
-
-/* NAV LINKS */
+/* NAVIGATION LINK STYLING */
 #main_content p:first-of-type a {
-  color: #ffffff !important;            /* White links inside the bar */
+  color: #ffffff !important;
   text-decoration: none !important;
-  margin: 0 10px !important;
-  font-size: 14px !important;
   font-weight: bold !important;
-  transition: 0.3s ease !important;
-  display: inline-block !important;
+  margin: 0 8px !important;
 }
 
-/* NAV HOVER EFFECT */
 #main_content p:first-of-type a:hover {
-  color: #39ff14 !important;            /* Glows Green on Hover */
-  text-shadow: 0 0 8px #39ff14 !important;
+  color: #39ff14 !important;
 }
 
-/* CLEANING UP FOOTER TEXT */
-footer, footer p, footer a {
-  color: #8b949e !important;            /* Dimmed gray text for the footer info */
+/* SHREYA-INSPIRED PROJECT GRID */
+.project-grid {
+  display: grid !important;
+  grid-template-columns: 1fr !important;
+  gap: 20px !important;
+  margin-top: 20px !important;
+}
+
+@media (min-width: 768px) {
+  .project-grid {
+    grid-template-columns: 1fr 1fr !important;
+  }
+}
+
+.project-card {
+  background-color: #161b22 !important;
+  border: 1px solid #30363d !important;
+  border-radius: 8px !important;
+  padding: 20px !important;
+}
+
+.project-card:hover {
+  border-color: #00ccff !important;
+}
+
+.project-header h3 {
+  margin: 0 !important;
+  font-size: 16px !important;
+}
+
+.project-role {
+  font-size: 11px !important;
+  color: #8b949e !important;
+}
+
+.project-desc {
+  font-size: 13px !important;
+  color: #e6edf3 !important;
+}
+
+.project-tags span {
+  background-color: rgba(57, 255, 20, 0.1) !important;
+  color: #39ff14 !important;
+  border: 1px solid rgba(57, 255, 20, 0.3) !important;
+  padding: 2px 8px !important;
+  border-radius: 4px !important;
+  font-size: 11px !important;
+  display: inline-block !important;
+  margin: 2px !important;
 }
