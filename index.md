@@ -8,7 +8,7 @@ layout: default
 
 <!-- ABOUT ME SECTION -->
 <section id="about">
-About Me
+## About Me
  
 I’ve always seen cybersecurity as a massive puzzle I love the challenge of piecing together clues, finding patterns, and solving complex problems to stay ahead of threats. As a recent Cybersecurity graduate from Indiana Tech, I genuinely enjoy diving into the technical details to uncover and fix hidden vulnerabilities.
 
