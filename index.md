@@ -77,7 +77,7 @@ layout: default
     <div class="project-card">
       <div class="project-header">
         <h3>Automated Management System</h3>
-      <p class="project-desc">Developed and deployed a comprehensive relational database management system designed to automate and optimize operations for a mobile business. Built a robust SQL Server backend integrated with a custom Excel VBA user interface, allowing non-technical managers to effortlessly update records, track fleet logistics, and maintain seamless business workflows.   <span>SQL Server</span><span>Excel VBA</span><span>Relational Databases</span><span>Workflow Optimization</span></p>
+      <p class="project-desc">Developed and deployed a comprehensive relational database management system designed to automate and optimize operations for a mobile business. Built a robust SQL Server backend integrated with a custom Excel VBA user interface, allowing non-technical managers to effortlessly update records, track fleet logistics, and maintain seamless business workflows.<span>SQL Server</span><span>Excel VBA</span><span>Relational Databases</span><span>Workflow Optimization</span></p>
       <div class="project-tags">
      
       </div>
