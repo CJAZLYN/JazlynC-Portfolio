@@ -114,7 +114,7 @@ strong {
 <div class="about-container">
   <!-- Circular Profile Picture Frame -->
   <div class="profile-frame">
-    <img src="profile.jpg" alt="Profile Picture">
+    <img src="Headshort Smaller Image.jpg" alt="Profile Picture">
   </div>
 
   <!-- Content Box with Cybersecurity Grid Background -->
