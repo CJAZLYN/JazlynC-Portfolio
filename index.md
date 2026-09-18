@@ -114,7 +114,7 @@ strong {
 <div class="about-container">
   <!-- Circular Profile Picture Frame -->
   <div class="profile-frame">
-    <img src="{{ site.baseurl }}/Headshort%20Smaller%20Image.jpg" alt="Profile Picture">
+    <img src="{{ site.baseurl }}/profile.jpg" alt="Profile Picture">
   </div>
 </div>
 
