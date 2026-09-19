@@ -1,8 +1,4 @@
 
----
-layout: default
-title: Skills
----
 
 <style>
 html, body, .wrapper, section, container, div.wrapper, main, #main_content, .container-lg, .outer {
