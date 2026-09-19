@@ -140,10 +140,10 @@ p[align="center"] a:hover, p[align="center"] a.active {
 
 <p align="center">
   <a href="{{ site.baseurl }}/">About Me</a> | 
-  <a href="{{ site.baseurl }}/skills.html">Skills</a> | 
-  <a href="{{ site.baseurl }}/projects.html" class="active">Projects</a> | 
-  <a href="{{ site.baseurl }}/experience.html">Experience</a> | 
-  <a href="{{ site.baseurl }}/education.html">Education</a>
+  <a href="{{ site.baseurl }}/skills">Skills</a> | 
+  <a href="{{ site.baseurl }}/projects">Projects</a> | 
+  <a href="{{ site.baseurl }}/experience">Experience</a> | 
+  <a href="{{ site.baseurl }}/education">Education</a>
 </p>
 
 <hr>
