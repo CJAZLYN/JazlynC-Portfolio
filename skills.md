@@ -1,10 +1,10 @@
+
 ---
 layout: default
 title: Skills
 ---
 
 <style>
-/* CORE DARK TERMINAL THEME */
 html, body, .wrapper, section, container, div.wrapper, main, #main_content, .container-lg, .outer {
   background: #0d1117 !important;
   background-color: #0d1117 !important;
@@ -27,31 +27,28 @@ header h1, h1, h2, h3, h4, h5, h6 {
   font-family: 'Courier New', Courier, monospace !important;
 }
 
-/* TOP NAVIGATION BAR */
-p[align="center"] {
+/* SLEEK CENTERED NAVIGATION BAR */
+.nav-bar {
   background-color: #161b22 !important;
-  padding: 12px 10px !important;
+  padding: 12px 15px !important;
   text-align: center !important;
   border: 1px solid #00ccff !important;
   border-radius: 6px !important;
-  display: block !important;
+  max-width: 650px !important;
+  margin: 0 auto 25px auto !important;
 }
-
-p[align="center"] a {
+.nav-bar a {
   color: #ffffff !important;
   text-decoration: none !important;
   font-weight: bold !important;
-  margin: 0 10px !important;
-  font-size: 14px !important;
-  display: inline-block !important;
+  margin: 0 8px !important;
+  font-size: 13px !important;
 }
-
-p[align="center"] a:hover, p[align="center"] a.active {
+.nav-bar a:hover, .nav-bar a.active {
   color: #39ff14 !important;
   text-shadow: 0 0 8px #39ff14 !important;
 }
 
-/* SHREYA-STYLE NUMBERED CATEGORY CARDS */
 .skill-category {
   margin-bottom: 35px;
   border-bottom: 1px solid #30363d;
@@ -89,19 +86,18 @@ p[align="center"] a:hover, p[align="center"] a.active {
 }
 </style>
 
-<p align="center">
+<div class="nav-bar">
   <a href="{{ site.baseurl }}/">About Me</a> | 
   <a href="{{ site.baseurl }}/skills.html" class="active">Skills</a> | 
   <a href="{{ site.baseurl }}/projects.html">Projects</a> | 
   <a href="{{ site.baseurl }}/experience.html">Experience</a> | 
   <a href="{{ site.baseurl }}/education.html">Education</a>
-</p>
+</div>
 
 <hr>
 
 <h2>Technical Skills</h2>
 
-<!-- CATEGORY 01 -->
 <div class="skill-category">
   <div class="category-number">01 // NETWORK DEFENSE & AUDITING</div>
   <h3 class="category-title">Network Security & Packet Analysis</h3>
@@ -115,7 +111,6 @@ p[align="center"] a:hover, p[align="center"] a.active {
   </div>
 </div>
 
-<!-- CATEGORY 02 -->
 <div class="skill-category">
   <div class="category-number">02 // DIGITAL INVESTIGATION</div>
   <h3 class="category-title">Forensics & Crime Scene Reconstruction</h3>
@@ -129,7 +124,6 @@ p[align="center"] a:hover, p[align="center"] a.active {
   </div>
 </div>
 
-<!-- CATEGORY 03 -->
 <div class="skill-category">
   <div class="category-number">03 // GOVERNANCE & ARCHITECTURE</div>
   <h3 class="category-title">Methodologies & Security Frameworks</h3>
@@ -142,7 +136,6 @@ p[align="center"] a:hover, p[align="center"] a.active {
   </div>
 </div>
 
-<!-- CATEGORY 04 -->
 <div class="skill-category">
   <div class="category-number">04 // SYSTEMS & SCRIPTING</div>
   <h3 class="category-title">Languages, Databases & Analysis</h3>
