@@ -5,7 +5,7 @@ title: Skills
 
 <style>
 /* Hides the default site header banner on subpages */
-.page-header {
+.page-header, header, #header {
   display: none !important;
 }
 
