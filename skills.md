@@ -15,7 +15,6 @@ html, body, .wrapper, section, container, div.wrapper, main, #main_content, .con
   color: #39ff14 !important;
   font-family: 'Courier New', Courier, monospace !important;
 }
-</style>
 header, .sidebar, aside {
   background: #161b22 !important;
 }
