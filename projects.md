@@ -176,7 +176,7 @@ li {
     <div class="work-tags">
       <span>OpenSSL</span><span>Wireshark</span><span>TLS 1.3/HTTPS</span><span>2048-bit RSA</span><span>HSTS</span>
     </div>
-    <a href="https://github.com/CJAZLYN" target="_blank" rel="noopener noreferrer" class="live-btn">View Project ↗</a>
+    <a href="https://github.com/CJAZLYN" target="_blank" rel="noopener noreferrer" class="live-btn">View Demo ↗</a>
   </div>
 </div>
 
@@ -197,7 +197,7 @@ li {
     <div class="work-tags">
       <span>HTML5</span><span>CSS Grid</span><span>JavaScript</span><span>Bento UI</span>
     </div>
-    <a href="https://github.com/CJAZLYN" target="_blank" rel="noopener noreferrer" class="live-btn">View Project ↗</a>
+    <a href="https://www.loom.com/share/954d73d934fc43d886065f3c86688511" target="_blank" rel="noopener noreferrer" class="live-btn">View Demo ↗</a>
   </div>
 </div>
 
@@ -220,7 +220,7 @@ li {
     <div class="work-tags">
       <span>SQL Server</span><span>T-SQL Triggers</span><span>Excel VBA</span><span>ERD Schema</span>
     </div>
-    <a href="https://github.com/CJAZLYN" target="_blank" rel="noopener noreferrer" class="live-btn">View Project ↗</a>
+    <a href="https://1drv.ms/x/c/332a9e5069734cf1/IQBZDb1bQH4RTL2UWnGr1TscAbm2nnynZV6RBYUv13am7Sk?e=uVWOxR" target="_blank" rel="noopener noreferrer" class="live-btn">View Files ↗</a>
   </div>
 </div>
 
