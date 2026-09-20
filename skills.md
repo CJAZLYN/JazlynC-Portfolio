@@ -1,3 +1,4 @@
+<style>
 /* Hides the default theme footer/project link under the site title */
 .site-footer, .page-header small, a[href*="JazlynC-Portfolio"] {
   display: none !important;
