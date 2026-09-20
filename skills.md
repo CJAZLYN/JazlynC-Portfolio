@@ -1,13 +1,21 @@
-
+---
+layout: default
+title: Skills
+---
 
 <style>
+/* Hides the default site header banner on subpages */
+.page-header {
+  display: none !important;
+}
+
 html, body, .wrapper, section, container, div.wrapper, main, #main_content, .container-lg, .outer {
   background: #0d1117 !important;
   background-color: #0d1117 !important;
   color: #39ff14 !important;
   font-family: 'Courier New', Courier, monospace !important;
 }
-
+</style>
 header, .sidebar, aside {
   background: #161b22 !important;
 }
