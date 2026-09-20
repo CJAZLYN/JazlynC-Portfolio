@@ -4,25 +4,15 @@ title: Education
 ---
 
 <style>
+/* Hides the default site header banner on subpages */
+.page-header, header, #header {
+  display: none !important;
+}
+
 html, body, .wrapper, section, container, div.wrapper, main, #main_content, .container-lg, .outer {
   background: #0d1117 !important;
   background-color: #0d1117 !important;
   color: #39ff14 !important;
-  font-family: 'Courier New', Courier, monospace !important;
-}
-
-header, .sidebar, aside {
-  background: #161b22 !important;
-}
-
-header h1 a, h1#site-title {
-  color: #39ff14 !important;
-  text-shadow: 0 0 10px rgba(57, 255, 20, 0.7) !important;
-  font-weight: bold !important;
-}
-
-header h1, h1, h2, h3, h4, h5, h6 {
-  color: #00ccff !important;
   font-family: 'Courier New', Courier, monospace !important;
 }
 
@@ -95,8 +85,9 @@ li {
   <a href="{{ site.baseurl }}/education.html" class="active">Education</a>
 </div>
 
-<h2>Education & Campus Involvement</h2>
+<h2>Education & Professional Affiliations</h2>
 
+<!-- DEGREE & AWARD -->
 <div class="edu-card">
   <div class="edu-header">
     <h3>B.S. in Cybersecurity | Indiana Institute of Technology</h3>
@@ -104,18 +95,42 @@ li {
   </div>
   <ul>
     <li>Completed comprehensive coursework focusing on Network Defense, Digital Forensics, Cryptography, and Secure System Administration.</li>
-    <li>Active member of Women in CyberSecurity (WiCyS) starting April 2025.</li>
+    <li><strong>Earned Professional Award</strong> recognizing dedication, excellence, and achievement during undergraduate studies.</li>
   </ul>
 </div>
 
+<!-- WICYS ORGANIZATION -->
 <div class="edu-card">
   <div class="edu-header">
-    <h3>Secretary | Indiana Tech Cybersecurity Society</h3>
+    <h3>Member | Women in CyberSecurity (WiCyS)</h3>
+    <span class="edu-date">2025 – Present / Remote & National</span>
+  </div>
+  <ul>
+    <li>Participate in a professional cybersecurity community focused on career development, networking, and technical learning.</li>
+    <li>Engage with cybersecurity resources, events, and opportunities related to security operations, risk, and emerging technology.</li>
+  </ul>
+</div>
+
+<!-- CYBERSECURITY SOCIETY -->
+<div class="edu-card">
+  <div class="edu-header">
+    <h3>Secretary (Volunteer) | Indiana Tech Cybersecurity Society</h3>
     <span class="edu-date">April 2025 – August 2026</span>
   </div>
   <ul>
     <li>Managed internal and external communication channels, acting as the primary liaison between student leadership, active members, and professional industry partners.</li>
     <li>Coordinated calendar management and scheduling logistics for campus workshops, meetings, and security training events.</li>
     <li>Recorded executive meeting minutes, maintained secure cloud documentation on OneDrive and Pathify, and designed promotional event graphics and posters using Canva.</li>
+  </ul>
+</div>
+
+<!-- BLACK EXCELLENCE ASSOCIATION -->
+<div class="edu-card">
+  <div class="edu-header">
+    <h3>Member | Black Excellence Association</h3>
+    <span class="edu-date">2022 – 2023</span>
+  </div>
+  <ul>
+    <li>Participated in campus community events, professional development activities, and cultural programming to support student engagement and leadership.</li>
   </ul>
 </div>
